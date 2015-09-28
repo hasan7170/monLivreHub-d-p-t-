@@ -1,3 +1,5 @@
 mon titre
 chapitrei 1
-ajout d'un proverbe
+*********************************
+ajout d'un proverbe: meilleur
+*********************************
